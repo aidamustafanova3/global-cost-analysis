@@ -1,4 +1,4 @@
-# Global Cost of Living and Affordability Analysis 🌍  
+# Global Cost of Living and Affordability Analysis(2024) 🌍  
 
 ## Project Description  
 This project analyzes global living costs across various countries using Microsoft Excel. The analysis includes key metrics such as rent, restaurant prices, groceries, and purchasing power. Visualizations and dashboards are used to highlight affordability differences and trends.
