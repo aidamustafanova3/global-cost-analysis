@@ -22,4 +22,6 @@ This project analyzes global living costs across various countries using Microso
 - Switzerland and Barbados had the highest gaps between living costs and rent.  
 - Strong correlations were found between local purchasing power and rent prices.  
 
-📂 **Project File**: [global cost analysis.xlsx](./global%20cost-%20analysis.xlsx)  
+📂 **Project File**: [global cost analysis.xlsx](./global%20cost-%20analysis.xlsx) 
+![Dashboard Visualization](./global%20cost%20analysis%20-%20dashboard.png)
+
